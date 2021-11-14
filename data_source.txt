@@ -1,0 +1,1 @@
+https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/covid19-open-data?project=modified-alloy-325700
