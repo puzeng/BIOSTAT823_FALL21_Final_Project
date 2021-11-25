@@ -2,7 +2,7 @@
 **Through Integrated Methods of Machine Learning Models and Arima Models**
 
 
-(https://share.streamlit.io/puzeng/biostat823_final_project_streamlit/main/Streamlit_Dashboard.py)[Dashboard Link]
+[Dashboard Link](https://share.streamlit.io/puzeng/biostat823_final_project_streamlit/main/Streamlit_Dashboard.py)
 
 *Contributors:*  
 
@@ -41,4 +41,8 @@ Among these tables we do not use vaccination data (trends in persons vaccinated 
 
 We use integrated methods of ARIMA models and machine learning models to forecast the daily new cases. First, we train separate ARIMA models for each time series predictors for each state, and then predict the values of each predictors for each date. Next, we use the predicted values of the time series predictors along with other static predictors as input of the machine learning models to do prediction and forecast.
  
+ ## Files Organizations
+ Data used in analysis were included in the data folder and also images included in the report.  
+ Individual reports were contained in report folder.  
+ All the code chunks were included in lib.  
  
