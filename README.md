@@ -2,7 +2,7 @@
 **Through Integrated Methods of Machine Learning Models and Arima Models**
 
 
-[https://share.streamlit.io/puzeng/biostat823_final_project_streamlit/main/Streamlit_Dashboard.py](Dashboard Link)
+(https://share.streamlit.io/puzeng/biostat823_final_project_streamlit/main/Streamlit_Dashboard.py)[Dashboard Link]
 
 *Contributors:*  
 
