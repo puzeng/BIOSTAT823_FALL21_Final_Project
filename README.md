@@ -2,6 +2,8 @@
 **Through Integrated Methods of Machine Learning Models and Arima Models**
 
 
+[https://share.streamlit.io/puzeng/biostat823_final_project_streamlit/main/Streamlit_Dashboard.py](Dashboard Link)
+
 *Contributors:*  
 
 *Xige Huang:* *2nd MS student in Department of Statistical Science, Duke University*
@@ -10,9 +12,8 @@
 
 *Pu Zeng:*       *2nd MB student in Department of Biostatistics and Bioinformatics, Duke University*  
 
-## Dashboard Link
 
-[]()
+
 
 ### Dashboard introduction
 
